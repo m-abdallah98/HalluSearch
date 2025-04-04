@@ -4,7 +4,7 @@
 
 **HalluSearch at SemEval-2025 Task 3: A Search-Enhanced RAG Pipeline for Hallucination Detection**  
 [https://arxiv.org](https://arxiv.org)
-*(link will be provided sson)*  
+*(link will be provided soon)*  
 
 ## Overview of the System Flow
 #### HalluSearch comprises three main components:
@@ -20,7 +20,7 @@
 - Compares each claim against retrieved evidence to identify **factual vs. fabricated segments**.  
 - Produces both **hard-label** and **soft-label** annotations for detecting hallucinated text spans.
 
-![HalluSearch Pipeline Diagram](docs/system.png)
+![HalluSearch Pipeline Diagram](docs/system.PNG)
 
 ## Fallback Strategies
 
