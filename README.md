@@ -65,7 +65,7 @@ When retrieval is incomplete or fails, HalluSearch employs two robust fallback m
 ### Usage:
 
 - Install requirements from `requirements.txt` and delve through our notebook experiments 
-- Or you can run with Google Colab:
+- Or you can run with Google Colab:\
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/m-abdallah98/HalluSearch/blob/main/HalluSearch_pipeline_experiments.ipynb)
 ---
 ## References
