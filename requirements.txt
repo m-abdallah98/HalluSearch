@@ -5,6 +5,7 @@ spacy
 openai
 requests
 pandas
+wikipedia
 llama-index
 llama-index-llms-openai
 llama-index-readers-web
