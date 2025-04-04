@@ -1,0 +1,12 @@
+beautifulsoup4
+numpy
+scipy
+spacy
+openai
+requests
+pandas
+llama-index
+llama-index-llms-openai
+llama-index-readers-web
+llama-index-tools-google
+llama-index-embeddings-huggingface
