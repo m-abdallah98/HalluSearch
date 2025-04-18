@@ -3,8 +3,7 @@
 **HalluSearch** is a multilingual, search-enhanced pipeline designed to detect and localize hallucinated text spans in outputs from Large Language Models (LLMs). It is introduced as part of [SemEval-2025 Task 3 (Mu-SHROOM)](https://helsinki-nlp.github.io/shroom/) and is described in detail in our paper:
 
 **HalluSearch at SemEval-2025 Task 3: A Search-Enhanced RAG Pipeline for Hallucination Detection**  
-[https://arxiv.org](https://arxiv.org)
-*(link will be provided soon)*  
+([HalluSearch](https://arxiv.org/abs/2504.10168))
 
 ## Overview of the System Flow
 #### HalluSearch comprises three main components:
